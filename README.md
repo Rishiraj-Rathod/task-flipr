@@ -1,8 +1,5 @@
-# Wixstro - Wix Astro Template
 
-A modern, full-featured Wix Astro template built with React, TypeScript, and Tailwind CSS. This template provides a solid foundation for building dynamic, interactive websites with Wix's powerful ecosystem.
-
-## 🚀 Features
+##  Features
 
 - **Astro Framework** - Modern static site generator with server-side rendering
 - **React Integration** - Full React support with JSX components
@@ -58,7 +55,7 @@ A modern, full-featured Wix Astro template built with React, TypeScript, and Tai
 
 The development server will start and you can view your site at `http://localhost:4321`.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 main/
@@ -90,7 +87,7 @@ This template includes a comprehensive set of UI components built with Radix UI 
 - **Data Display**: Table, Card, Badge, Avatar
 - **Interactive**: Button, Toggle, Slider, Command
 
-## 🔧 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
@@ -101,7 +98,7 @@ This template includes a comprehensive set of UI components built with Radix UI 
 - `npm run test:run` - Run tests
 - `npm run install-template` - Install dependencies
 
-## 🧪 Testing
+##  Testing
 
 The project includes Vitest for testing:
 
@@ -109,7 +106,7 @@ The project includes Vitest for testing:
 npm run test:run
 ```
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The template is built with a mobile-first approach and includes:
 
@@ -118,7 +115,7 @@ The template is built with a mobile-first approach and includes:
 - Optimized images
 - Flexible layouts
 
-## 🚀 Deployment
+##  Deployment
 
 The template is configured for deployment on Cloudflare:
 
@@ -126,7 +123,7 @@ The template is configured for deployment on Cloudflare:
 npm run build
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -134,14 +131,3 @@ npm run build
 4. Run tests and linting
 5. Submit a pull request
 
-## 🆘 Support
-
-For support and questions:
-
-- Check the [Wix Developer Documentation](https://dev.wix.com/)
-- Review the [Astro Documentation](https://docs.astro.build/)
-
-
----
-
-Built with ❤️ using Wix Vibe, Astro, and modern web technologies.
