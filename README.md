@@ -14,7 +14,7 @@
 - **Testing** - Vitest testing framework setup
 - **Development Tools** - ESLint, TypeScript checking, and more
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Astro 5.8.0
 - **Frontend**: React 18.3.0
@@ -28,7 +28,7 @@
 - **Deployment**: Cloudflare
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
